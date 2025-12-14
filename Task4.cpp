@@ -13,7 +13,7 @@
 
         std::cout << "width" <<  width << std::endl;
         std::cout << "height" << height << std::endl;
-                                        // FIRST HALF
+                                        
 
         int FirstNumberOFspaces = height / 2;  // 5/2 = 2
         int FirstNumberOFstars = 1;
@@ -29,7 +29,7 @@
         std::cout << std::endl; 
         }
 
-                                        // SECCOND HALF
+                                        
 
         int SeccondNumberOFspaces = 1;  
         int SeccondNumberOFstars = height - 2;       
